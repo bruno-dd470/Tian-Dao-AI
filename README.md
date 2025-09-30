@@ -8,8 +8,7 @@
 
 ## 📚 Documentation | 文档 | Documentation
 - **English**: [Full Project Report](Tian-Dao-AI_EN_Report.pdf)
-- **中文/Français**: [Bilingual Chinese-French Report](Tian-Dao-AI_Bilingual_FR-ZH.pdf)
-
+- **中文/Français**: [[Bilingual Chinese-French Report](Tian-Dao-AI_Bilingual_ZH-FR.pdf)]
 ## 🛡 Repository and Prior Notice | 存证与优先权声明 | Dépôt et Avis d'Antériorité
 This repository establishes **public timestamped priority** for concepts of compassionate AI aligned with cosmic structure and Chinese wisdom.
 
