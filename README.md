@@ -9,7 +9,7 @@
 ## 📚 Documentation | 文档 | Documentation
 
 - **English**: [Full Project Report](Tian-Dao-AI_EN_Report.pdf)
-- **中文/Français**: [Bilingual Chinese-French Report](Tian-Dao-AI_Bilingual_ZH-FR.pdf)
+- **中文/Français**: [Bilingual Chinese-French Report](Tian-Dao-AI_Bilingual_FR-ZH_Report.pdf)
 
   
 ## 🛡 Repository and Prior Notice | 存证与优先权声明 | Dépôt et Avis d'Antériorité
