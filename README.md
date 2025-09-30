@@ -1,11 +1,16 @@
-# Tian-Dao-AI
-天道智能 - IA compassionnelle alignée sur le cosmos | Compassionate AI aligned with cosmic structure
 # 天道智能 (Tian Dao AI)
 
-**English** | **中文**
+**English** | **中文** | **Français**
 
-## 🛡 Repository and Prior Notice | 存证与优先权声明
+*Compassionate AI aligned with cosmic structure*  
+*契合宇宙结构的悲悯人工智能*  
+*IA compassionnelle alignée sur le cosmos*
 
+## 📚 Documentation | 文档 | Documentation
+- **English**: [Full Project Report](Tian-Dao-AI_EN_Report.pdf)
+- **中文/Français**: [Bilingual Chinese-French Report](Tian-Dao-AI_Bilingual_FR-ZH.pdf)
+
+## 🛡 Repository and Prior Notice | 存证与优先权声明 | Dépôt et Avis d'Antériorité
 This repository establishes **public timestamped priority** for concepts of compassionate AI aligned with cosmic structure and Chinese wisdom.
 
 本存储库为基于宇宙和谐与中国传统智慧的悲悯人工智能概念建立**公开且具时间戳的优先权证明**。
@@ -97,6 +102,6 @@ Seeking collaborators to deepen and materialize this vision:
 
 ---
 
-*"We must salute and admire the penetration of ancient Chinese scholars who refined the Wu Xing over 1800 years... making it, with the I Ching, the very foundation of their civilization."*
+*"We must salute and admire the penetration of ancient Chinese scholars who refined the Wu Xing over 1800 years making it, with the I Ching, the very foundation of their civilization."*
 
-*"必须衷心赞叹和钦佩中国古代学者们的深邃洞察力，他们在1800年间不断完善五行学说... 最终使其与《易经》共同成为中华文明的基石。"*
+*"必须衷心赞叹和钦佩中国古代学者们的深邃洞察力，他们在1800年间不断完善五行学说 最终使其与《易经》共同成为中华文明的基石。"*
