@@ -104,6 +104,7 @@ Seeking collaborators to deepen and materialize this vision:
 
 ---
 
-*"We must salute and admire the penetration of ancient Chinese scholars who refined the Wu Xing over 1800 years making it, with the I Ching, the very foundation of their civilization."*
+*"We must sincerely admire the profound insight of ancient Chinese scholars who continuously refined the Five Elements theory over 1800 years, from the Shang Dynasty (c. 1600 BCE) to the Han Dynasty (200 CE), making it one of the cornerstones of their civilization."*
 
-*"必须衷心赞叹和钦佩中国古代学者们的深邃洞察力，他们在1800年间不断完善五行学说 最终使其与《易经》共同成为中华文明的基石。"*
+
+*"必须衷心赞叹和钦佩中国古代学者们的深邃洞察力，他们在从商朝（约公元前1600年）到汉朝（公元200年）这1800年间不断完善五行学说，最终使其与《易经》共同成为中华文明的基石。"*
