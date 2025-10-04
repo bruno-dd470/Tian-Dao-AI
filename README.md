@@ -8,6 +8,10 @@
 
 ## 📚 Documentation | 文档 | Documentation
 
+## 🆕 最新添加 / New Additions
+[让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译 - On a perdu la moitié de l'univers -- Petit, Jean-Pierre zh.pdf](让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译 - On a perdu la moitié de l'univers -- Petit, Jean-Pierre zh.pdf)
+
+### 现有文档 (Existing Documents)
 - **English**: [Full Report](Tian-Dao-AI_en_Report.pdf)
 - **Français**: [Rapport Complet](Tian-Dao-AI_fr_Report.pdf)
 - **中文**: [完整报告](Tian-Dao-AI_zh_Report.pdf)
