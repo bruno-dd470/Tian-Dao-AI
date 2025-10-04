@@ -8,8 +8,11 @@
 
 ## 📚 Documentation | 文档 | Documentation
 
-## 🆕 最新添加 / New Additions
-[让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译 - On a perdu la moitié de l'univers -- Petit, Jean-Pierre zh.pdf](让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译 - On a perdu la moitié de l'univers -- Petit, Jean-Pierre zh.pdf)
+## 🆕 最新资料 (Recent Additions)
+
+### 2025年10月4日 (October 4, 2025)
+- 📜 **[新]** [让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译](让-皮埃尔·佩蒂的双宇宙模型%20-%20自动翻译%20-%20On%20a%20perdu%20la%20moitié%20de%20l'univers%20--%20Petit,%20Jean-Pierre%20zh.pdf) - 中文说明文档  
+  *Chinese documentation - Double universe model by Jean-Pierre Petit*
 
 ### 现有文档 (Existing Documents)
 - **English**: [Full Report](Tian-Dao-AI_en_Report.pdf)
