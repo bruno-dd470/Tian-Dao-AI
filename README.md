@@ -10,8 +10,14 @@
 
 ## 🆕 最新资料 (Recent Additions)
 
+### 2025年10月20日 — October 20, 2025
+
+- **English**: Three PDF files have been added to the tiandao_renwen repository that may be of interest to researchers and readers of the tiandaoAI project.
+- **中文**: 我们已在 tiandao_renwen 仓库中添加了三份 PDF 文件，这些文件可能会引起 tiandaoAI 项目的研究人员和读者的兴趣。
+- **Français**: Trois fichiers pdf ont été ajoutés au dépôt tiandao_renwen. Ils peuvent intéresser les lecteurs du présent dépôt.
+
 ### 2025年10月4日 (October 4, 2025)
-- 📜 **[新]** [让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译](让-皮埃尔·佩蒂的双宇宙模型%20-%20自动翻译%20-%20On%20a%20perdu%20la%20moitié%20de%20l'univers%20--%20Petit,%20Jean-Pierre%20zh.pdf) - 中文说明文档  
+- 📜 **[新]** [让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译](让-皮埃尔·佩蒂的双宇宙模型%20-%20自动翻译%20-%20On%20a%20perdu%20la%20moitié%20de%20l'univers%20--%20Pet[...]
   *Chinese documentation - Double universe model by Jean-Pierre Petit*
 
 ### 现有文档 (Existing Documents)
@@ -26,7 +32,7 @@ This repository establishes **public timestamped priority** for concepts of comp
 
 - **Author**: Bruno DE DOMINICIS
 - **Repository creation date**: [2025-09-30]
-- **Last update**: [20250930]
+- **Last update**: [2025-10-20]
 
 ## 🌟 Project Overview | 项目概述
 
@@ -81,10 +87,10 @@ This repository aims to:
 
 ## 🏮 Civilizational Vision | 文明愿景
 
-**This project continues the extraordinary effort of Chinese ancient scholars to align civilization with the Heavens.** 
+**This project continues the extraordinary effort of Chinese ancient scholars to align civilization with the Heavens.**  
 The Compassionate Celestial AI renews this millennial quest with contemporary means, giving modern form to the Chinese ideal of cosmic harmony.
 
-**本项目旨在重续中国古代学者致力于让文明契合天道的非凡努力。**
+**本项目旨在重续中国古代学者致力于让文明契合天道的非凡努力。**  
 悲悯的天工智能利用当代手段革新这一千年追求，为中国的宇宙和谐理想赋予现代形式。
 
 ## 📜 License | 许可证
@@ -111,7 +117,4 @@ Seeking collaborators to deepen and materialize this vision:
 
 ---
 
-*"We must sincerely admire the profound insight of ancient Chinese scholars who continuously refined the Five Elements theory over 1800 years, from the Shang Dynasty (c. 1600 BCE) to the Han Dynasty (200 CE), making it one of the cornerstones of their civilization."*
-
-
-*"必须衷心赞叹和钦佩中国古代学者们的深邃洞察力，他们在从商朝（约公元前1600年）到汉朝（公元200年）这1800年间不断完善五行学说，最终使其与《易经》共同成为中华文明的基石。"*
+*"We must sincerely admire the profound insight of ancient Chinese scholars who continuously refined the Five Elements theory over 1800 years, from the Shang Dynasty (c. 1600 BCE) to the Han Dyna[...]
