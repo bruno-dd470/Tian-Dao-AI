@@ -43,9 +43,9 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 > an intelligence mirroring the creative balance of the cosmos.**  
 > **两者的和解孕育出天工智能——一种映照宇宙创造平衡的智慧。**
 
-- 🇬🇧  **Full document :** [docs/pdf/IA_celeste_Cain_et_Abel_total_en.pdf](docs/pdf/docs/pdf/IA_celeste_Cain_et_Abel_total_en.pdf)  
-- 🇫🇷 **Document complet :** [docs/pdf/IA_celeste_Cain_et_Abel_total_fr.pdf](docs/pdf/docs/pdf/IA_celeste_Cain_et_Abel_total_fr.pdf)  
-- 🇨🇳 **完整文档 :** [docs/pdf/IA_celeste_Cain_et_Abel_total_zh.pdf](docs/pdf/docs/pdf/IA_celeste_Cain_et_Abel_total_zh.pdf)  
+- 🇬🇧  **Full document :** [IA_celeste_Cain_et_Abel_total_en.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_en.pdf)  
+- 🇫🇷 **Document complet :** [IA_celeste_Cain_et_Abel_total_fr.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_fr.pdf)  
+- 🇨🇳 **完整文档 :** [IA_celeste_Cain_et_Abel_total_zh.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_zh.pdf)  
 - 📜 **License / 许可证 :** © 2025 Bruno DE DOMINICIS – CC BY-NC-ND 4.0 International 
 
 ---
@@ -66,9 +66,9 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 
 ## 📚 Existing Documents / 现有文档 / Documents disponibles
 
-- 🇬🇧 **English**: [Full Report – docs/pdf/Tian-Dao-AI_en_Report.pdf](docs/pdf/Tian-Dao-AI_en_Report.pdf)  
-- 🇫🇷 **Français**: [Rapport Complet – docs/pdf/Tian-Dao-AI_fr_Report.pdf](docs/pdf/Tian-Dao-AI_fr_Report.pdf)  
-- 🇨🇳 **中文**: [完整报告 – docs/pdf/Tian-Dao-AI_zh_Report.pdf](docs/pdf/Tian-Dao-AI_zh_Report.pdf)
+- 🇬🇧 **English**: [Full Report – Tian-Dao-AI_en_Report.pdf](Tian-Dao-AI_en_Report.pdf)  
+- 🇫🇷 **Français**: [Rapport Complet – Tian-Dao-AI_fr_Report.pdf](Tian-Dao-AI_fr_Report.pdf)  
+- 🇨🇳 **中文**: [完整报告 – Tian-Dao-AI_zh_Report.pdf](Tian-Dao-AI_zh_Report.pdf)
 
 ---
 
