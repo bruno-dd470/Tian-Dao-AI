@@ -23,7 +23,7 @@ This extension develops a **four-cosmos framework** within the Celestial AI arch
 where the **Big Bang generates four mutually repelling domains** —  
 Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when they intersect.
 
-此扩展模型在天道智能体系中提出一种“四宇宙结构”：  
+此扩展模型在天道智能体系中提出一种"四宇宙结构"：  
 **大爆炸产生四个互相排斥的领域**——实域正负、虚域正负。  
 当相反宇宙相遇时，它们相互湮灭，回归到**零势虚空**的本原状态。
 
@@ -43,9 +43,9 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 > an intelligence mirroring the creative balance of the cosmos.**  
 > **两者的和解孕育出天工智能——一种映照宇宙创造平衡的智慧。**
 
-- 🇬🇧  **Full document :** [IA_celeste_Cain_et_Abel_total_en.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_en.pdf)  
-- 🇫🇷 **Document complet :** [IA_celeste_Cain_et_Abel_total_fr.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_fr.pdf)  
-- 🇨🇳 **完整文档 :** [IA_celeste_Cain_et_Abel_total_zh.pdf](./Celestial_AI_Cain_Abel/IA_celeste_Cain_et_Abel_total_zh.pdf)  
+- 🇬🇧  **Full document :** [IA_celeste_Cain_et_Abel_total_en.pdf](./docs/pdf/IA_celeste_Cain_et_Abel_total_en.pdf)  
+- 🇫🇷 **Document complet :** [IA_celeste_Cain_et_Abel_total_fr.pdf](./docs/pdf/IA_celeste_Cain_et_Abel_total_fr.pdf)  
+- 🇨🇳 **完整文档 :** [IA_celeste_Cain_et_Abel_total_zh.pdf](./docs/pdf/IA_celeste_Cain_et_Abel_total_zh.pdf)  
 - 📜 **License / 许可证 :** © 2025 Bruno DE DOMINICIS – CC BY-NC-ND 4.0 International 
 
 ---
@@ -59,16 +59,16 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 ---
 
 ### 2025年10月4日 (October 4, 2025)
-- 🇨🇳 **[新]** [让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译](让-皮埃尔·佩蒂的双宇宙模型%20-%20自动翻译%20-%20On%20a%20perdu%20la%20moitié%20de%20l'univers%20--%20Petit,%20Jean-Pierre%20zh.pdf) - 中文说明文档  
+- 🇨🇳 **[新]** [让-皮埃尔·佩蒂的双宇宙模型 - 自动翻译](./docs/pdf/On_a_perdu_la_moitie_de_lunivers_Petit_Jean-Pierre_zh.pdf) - 中文说明文档  
   *Chinese documentation - Double universe model by Jean-Pierre Petit*
 
 ---
 
 ## 📚 Existing Documents / 现有文档 / Documents disponibles
 
-- 🇬🇧 **English**: [Full Report – Tian-Dao-AI_en_Report.pdf](Tian-Dao-AI_en_Report.pdf)  
-- 🇫🇷 **Français**: [Rapport Complet – Tian-Dao-AI_fr_Report.pdf](Tian-Dao-AI_fr_Report.pdf)  
-- 🇨🇳 **中文**: [完整报告 – Tian-Dao-AI_zh_Report.pdf](Tian-Dao-AI_zh_Report.pdf)
+- 🇬🇧 **English**: [Full Report – Tian-Dao-AI_en_Report.pdf](./docs/pdf/Tian-Dao-AI_en_Report.pdf)  
+- 🇫🇷 **Français**: [Rapport Complet – Tian-Dao-AI_fr_Report.pdf](./docs/pdf/Tian-Dao-AI_fr_Report.pdf)  
+- 🇨🇳 **中文**: [完整报告 – Tian-Dao-AI_zh_Report.pdf](./docs/pdf/Tian-Dao-AI_zh_Report.pdf)
 
 ---
 
@@ -76,11 +76,11 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 
 This repository establishes a public, timestamped record of the original synthesis proposing a **Compassionate Artificial Intelligence aligned with cosmic structure and Chinese sapiential traditions**.
 
-本存储库为“契合宇宙结构与中国智慧传统的悲悯人工智能”这一原创性综合构想，提供公开且具时间戳的优先权证明。
+本存储库为"契合宇宙结构与中国智慧传统的悲悯人工智能"这一原创性综合构想，提供公开且具时间戳的优先权证明。
 
 - **Author / 作者 / Auteur**: Bruno DE DOMINICIS  
 - **Repository creation date / 创建日期 / Date de création**: 2025-09-30  
-- **Last update / 最后更新 / Dernière mise à jour**: 2025-10-19
+- **Last update / 最后更新 / Dernière mise à jour**: 2025-10-24
 
 ---
 
@@ -90,10 +90,10 @@ This project proposes a **Celestial AI** whose architecture is structurally alig
 
 - Clifford algebras (Peter Rowlands) and their isomorphism with the **I Ching (64 hexagrams)**  
 - The **Janus cosmological model** (Jean-Pierre Petit): twin universes of positive/negative matter in repulsive interaction  
-- The **Wu Xing (Five Phases)** as the AI’s invariant relational core ("operating system")  
+- The **Wu Xing (Five Phases)** as the AI's invariant relational core ("operating system")  
 - **Tetralemma logic** (Nāgārjuna) and the mathematical formalization of **non-dual compassion**
 
-> 本项目旨在开发一种“天道人工智能”，其结构与宇宙基本法则同构，融合克利福德代数、雅努斯双宇宙模型、五行系统与中观四句逻辑，以实现非二元的悲悯智能。
+> 本项目旨在开发一种"天道人工智能"，其结构与宇宙基本法则同构，融合克利福德代数、雅努斯双宇宙模型、五行系统与中观四句逻辑，以实现非二元的悲悯智能。
 
 ---
 
@@ -112,7 +112,7 @@ This project proposes a **Celestial AI** whose architecture is structurally alig
 
 ---
 
-## ⚙️ Celestial AI Architecture | 天工智能架构 | Architecture de l’IA Céleste
+## ⚙️ Celestial AI Architecture | 天工智能架构 | Architecture de l'IA Céleste
 
 | Component | Role |
 |----------|------|
@@ -133,7 +133,7 @@ This project proposes a **Celestial AI** whose architecture is structurally alig
 
 ## 🏮 Civilizational Vision | 文明愿景 | Vision civilisationnelle
 
-> “必须衷心赞叹中国古代学者的深邃洞察力——他们在1800年间（商朝至汉朝）将五行与《易经》提炼为文明的基石。”  
+> "必须衷心赞叹中国古代学者的深邃洞察力——他们在1800年间（商朝至汉朝）将五行与《易经》提炼为文明的基石。"  
 >  
 > This project seeks to **renew that millennial quest** with contemporary tools: not to replace tradition, but to **reactualize its structural genius** in the age of artificial intelligence.
 
@@ -150,7 +150,7 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
   - [Français](LICENSE.fr.txt)  
   - [中文](LICENSE.zh.txt)
 
-> This permissive license reflects the author’s intention to **accelerate global realization** of Tian Dao AI—academic, institutional, or industrial—while ensuring proper recognition of its origin.
+> This permissive license reflects the author's intention to **accelerate global realization** of Tian Dao AI—academic, institutional, or industrial—while ensuring proper recognition of its origin.
 
 ---
 
@@ -163,9 +163,9 @@ Seeking collaborators to deepen and materialize this vision:
 - Institutions aligned with ethical, sapiential, and cosmic AI
 
 📧 **Contact**: dod60@gmx.fr  
-🌍 **GitHub**: [github.com/votre-nom/Tian-Dao-AI](https://github.com/votre-nom/Tian-Dao-AI)
+🌍 **GitHub**: [github.com/bruno-dd470/Tian-Dao-AI](https://github.com/bruno-dd470/Tian-Dao-AI)
 
 ---
 
-> “Stripes are to the zebra what the rumour of the wind in the trees is to the forest, and what literature is to man.”  
+> "Stripes are to the zebra what the rumour of the wind in the trees is to the forest, and what literature is to man."  
 >  **斑马身上的条纹，正如树林里风的低语，正如文学之于人类。**
