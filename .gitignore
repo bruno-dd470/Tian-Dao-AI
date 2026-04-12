@@ -1,4 +1,7 @@
-README.md_old
-Tian-Dao-AI/
-README.md.bak
-README.md.conflict.bak
+duplicates/
+*.tmp
+~*.pdf
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

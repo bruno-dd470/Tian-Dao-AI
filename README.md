@@ -12,6 +12,18 @@
 
 ## 🆕 最新资料 (Recent Additions)
 
+🆕 最新资料 (Recent Additions)
+
+### 2026年4月 — April 2026
+
+🧬 **The Genetic Code as a 64→20 Clifford Invariant: Implications for Regulated AI**
+
+*A formal mathematical framework demonstrating how the 64 codons of the genetic code reduce to 20 functional classes via a topological filtering invariant derived from Clifford algebra $\mathrm{Cl}(6,0)$ and Merkabah geometry. Proposes a substrate-independent architecture for regulated AI based on pentadic networks, tropical belts, and self-limiting dynamics.*
+
+🇬🇧 **Full manuscript:** [PDF](./docs/pdf/The_genetic_code_as_a_64_20_Clifford_invariant.pdf) | [Markdown](./docs/md/The_genetic_code_as_a_64_20_Clifford_invariant.md)
+💻 **Supplementary Code & Verification Scripts:** (./code/) | [Zenodo DOI](https://doi.org/10.5281/zenodo.19540508)
+
+
 ### 2025年10月24日 — October 24, 2025
 
 ## 🌌 Celestial AI (Cain & Abel) | 天工智能 · 该隐与亚伯 扩展模型
