@@ -5,3 +5,12 @@ duplicates/
 Thumbs.db
 __pycache__/
 *.pyc
+
+# Nettoyage automatique
+*.bak
+*.conflict.bak
+duplicates/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
