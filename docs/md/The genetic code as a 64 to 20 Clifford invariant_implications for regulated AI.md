@@ -186,30 +186,6 @@ This pipeline closes the loop from algebraic possibility to observable regulatio
 ## 3.1 Partition of abstract configurations
 The topological clustering of the 64 abstract configurations yields 20 equivalence classes. Table 1 lists these classes with their polarity signatures and the corresponding triplets of pentads. The pentads are labelled $P_1,\dots,P_6$ (positive) and $N_1,\dots,N_6$ (negative). The table specifies the exact geometric embedding of each attractor in the level-3 double tetrahedron (Merkabah) and its corresponding biological degeneracy. The polarity gradient (3P → 3N) correlates systematically with the number of codons assigned to each amino acid, reflecting the degree of geometric overlap in the underlying pentad network.
 
-| Class | Pentad Triplet | Polarity | Geometric Position (Merkabah) | Deg. | Codon(s) | Amino Acid |
-|:---:|:---|:---:|:---|:---:|:---|:---|
-| A | $\{P_1, P_2, P_4\}$ | 3P | Reference Pole | 1 | AUG | Methionine |
-| B | $\{P_1, P_3, P_5\}$ | 3P | Northern Face | 1 | UGG | Tryptophan |
-| C | $\{P_2, P_3, P_6\}$ | 3P | Southern Face | 2 | UUU, UUC | Phenylalanine |
-| D | $\{P_4, P_5, N_2\}$ | 2P+N | Eastern Face | 3 | AUU, AUC, AUA | Isoleucine |
-| E | $\{P_5, P_6, N_3\}$ | 2P+N | Western Face | 4 | GUU, GUC, GUA, GUG | Valine |
-| F | $\{P_1, P_6, N_4\}$ | 2P+N | NE Edge | 4 | CCU, CCC, CCA, CCG | Proline |
-| G | $\{P_2, P_5, N_6\}$ | 2P+N | NW Edge | 4 | ACU, ACC, ACA, ACG | Threonine |
-| H | $\{P_3, P_4, N_6\}$ | 2P+N | SE Edge | 4 | GCU, GCC, GCA, GCG | Alanine |
-| I | $\{P_1, N_2, N_6\}$ | 1P+2N | SW Edge | 6 | UCU, UCC, UCA, UCG, AGU, AGC | Serine |
-| J | $\{P_1, N_3, N_5\}$ | 1P+2N | Northern Vertex | 6 | UUA, UUG, CUU, CUC, CUA, CUG | Leucine |
-| K | $\{P_2, N_3, N_5\}$ | 1P+2N | Southern Vertex | 6 | CGU, CGC, CGA, CGG, AGA, AGG | Arginine |
-| L | $\{P_3, N_2, N_4\}$ | 1P+2N | Eastern Vertex | 4 | GGU, GGC, GGA, GGG | Glycine |
-| M | $\{P_4, N_1, N_3\}$ | 1P+2N | Western Vertex | 2 | UAU, UAC | Tyrosine |
-| N | $\{P_4, N_5, N_6\}$ | 1P+2N | Diagonal 1 | 2 | CAU, CAC | Histidine |
-| O | $\{P_5, N_1, N_4\}$ | 1P+2N | Diagonal 2 | 2 | CAA, CAG | Glutamine |
-| P | $\{P_6, N_1, N_2\}$ | 1P+2N | Diagonal 3 | 2 | AAU, AAC | Asparagine |
-| Q | $\{P_2, N_1, N_4\}$ | 1P+2N | Intersection $B \cap F \cap G$ | 2 | AAA, AAG | Lysine |
-| R | $\{P_3, N_1, N_5\}$ | 1P+2N | Intersection $H \cap I \cap J$ | 2 | GAU, GAC | Aspartic acid |
-| S | $\{P_6, N_5, N_6\}$ | 1P+2N | Intersection $L \cap M \cap N$ | 2 | GAA, GAG | Glutamic acid |
-| T | $\{N_2, N_3, N_4\}$ | 3N | Internal Kernel ($O \cap P$) | 2 + 3 | UGU, UGC, UAA, UAG, UGA | Cysteine + Stop |
-
-
 \begingroup
 \small
 \setlength{\tabcolsep}{3pt}

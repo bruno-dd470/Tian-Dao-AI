@@ -21,6 +21,7 @@
 *A formal mathematical framework demonstrating how the 64 codons of the genetic code reduce to 20 functional classes via a topological filtering invariant derived from Clifford algebra $\mathrm{Cl}(6,0)$ and Merkabah geometry. Proposes a substrate-independent architecture for regulated AI based on pentadic networks, tropical belts, and self-limiting dynamics.*
 
 🇬🇧 **Full manuscript:** [PDF](<./docs/pdf/The genetic code as a 64 to 20 Clifford invariant_implications for regulated AI.pdf>) | [Markdown](<./docs/md/The genetic code as a 64 to 20 Clifford invariant_implications for regulated AI.md>)
+🇫🇷 **Document complet:** [PDF](<./docs/pdf/The_genetic_code_as_a_64_to_20_Clifford_invariant_implications_for_regulated_AI_fr.pdf>) | [Markdown](<./docs/md/The_genetic_code_as_a_64_to_20_Clifford_invariant_implications_for_regulated_AI_fr.md>)
 
 💻 **Supplementary Code** & Verification Scripts: [Code](./code/) | [Zenodo DOI](https://doi.org/10.5281/zenodo.19540508)
 
