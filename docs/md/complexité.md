@@ -6,7 +6,7 @@ date: "avril 2026"
 doi: "10.5281/zenodo.19540508"
 abstract_fr: |
   La régulation de la complexité combinatoire est un défi central pour les systèmes naturels et artificiels. Le code génétique y répond en projetant 64 codons sur 20 classes fonctionnelles via une redondance organisée qui confère robustesse et tolérance aux erreurs.
-  En nous appuyant sur les travaux de Peter Rowlands sur les algèbres de Clifford nilpotentes [10], nous montrons que la structure à 64 éléments de $\mathrm{Cl}(6,0)$, après brisure de symétrie, se réduit à 20 attracteurs stables organisés géométriquement en double tétraèdre de niveau 3 (Merkabah). L'imposition d'une règle de voisinage par partage d’une face triangulaire commune entre deux tétraèdres filtre les 64 configurations en exactement 20 classes d’équivalence.
+  En nous appuyant sur le cadre mathématique et physique des algèbres de Clifford nilpotentes, développé principalement par Peter Rowlands, ainsi que sur l'application ultérieure de ce formalisme au code génétique, présentée conjointement par Rowlands et Vanessa Hill au chapitre 19 de *Zero to Infinity*, nous montrons que la structure à 64 éléments de $\mathrm{Cl}(6,0)$, après brisure de symétrie, se réduit à 20 attracteurs stables organisés géométriquement en double tétraèdre de niveau 3 (Merkabah). L'imposition d'une règle de voisinage par partage d’une face triangulaire commune entre deux tétraèdres filtre les 64 configurations en exactement 20 classes d’équivalence.
   Nous formalisons cet invariant 64→20 en définissant un espace de configurations binaires à six dimensions et un critère de regroupement topologique. Chaque classe est identifiée par un triplet de pentades — unités algébriques irréductibles de $\mathrm{Cl}(6,0)$ correspondant aux 12 faces pentagonales du dodécaèdre. Les pentades se partitionnent en six positives ($P$) et six négatives ($N$), de sorte que la signature de polarité de toute classe compte simplement le nombre de pentades positives et négatives dans son triplet ($3P$, $2P+1N$, $1P+2N$ ou $3N$). Ce gradient structurel définit l'espace admissible de redondance que le code génétique exploite de manière différentiée selon des contraintes fonctionnelles et évolutives.
   Le graphe dual des 12 pentades, construit directement à partir des triplets de la Merkabah, exhibe deux 5-cycles disjoints (ceintures tropicales $C_P$ et $C_N$) et deux seuils polaires ($P_4$, $N_4$). À l'intérieur de chaque pentade, les cinq éléments réalisent une dynamique locale à cinq phases (Wuxing) via deux cycles complémentaires : le pentagone (sheng) et le pentagramme (ke). Au plan externe, les ceintures tropicales propagent ces cycles comme modes de régulation globale. Ce noyau structurel indépendant du substrat fournit une architecture de référence mathématiquement fondée pour une intelligence artificielle auto-limitée et régulée.  
   **DOI:** [10.5281/zenodo.19540508](https://doi.org/10.5281/zenodo.19540508)
@@ -53,6 +53,8 @@ X_4 &= \neg P \cap \neg Q \quad (\text{état } \sim m),
 \end{aligned}
 $$
 qui correspondent bijectivement aux paires de bits $(10, 01, 11, 00)$. Le produit cartésien $16 \times 4$ génère ainsi l'espace complet des 64 configurations de $\mathrm{Cl}(6,0)$ à partir de la base de $\mathrm{Cl}(4,0)$. Cette couche modale préserve la signature algébrique de chaque primitive tout en garantissant la fermeture structurelle sans introduire de contradictions paraconsistantes [11, 13]. À ce stade, aucune interprétation physique ou biologique n'est requise ; seule la combinatoire algébrique définit le terrain de filtration.
+
+(Note d'attribution : le cadre algébrique sous-jacent (équation de Dirac, espace-temps, masse, charge) est développé par P. Rowlands ; la correspondance avec le code génétique a été formalisée conjointement avec V. Hill dans le chapitre 19 de Zero to Infinity. Le présent travail en extrait l'invariant de régulation 64→20 et le généralise à des systèmes discrets non biologiques.)
 
 ## 2.2. Le double tétraèdre de niveau 3 (Merkabah) : subdivision et cellules tétraédriques
 La structure géométrique support est le double tétraèdre de niveau 3, communément désigné sous le terme de *Merkabah*. Sa construction suit une subdivision hiérarchique stricte :
@@ -301,7 +303,7 @@ Nous remercions les assistants en IA sans lesquels ce travail serait resté à l
 [7] Koonin, E. V., & Novozhilov, A. S. (2017). Origine et évolution du code génétique : l’énigme universelle. *IUBMB Life*, 69(5), 282–296.  
 [8] Woese, C. R. (1965). L’ordre dans le code génétique. *Proc. Natl. Acad. Sci. USA*, 54(1), 71–75.  
 [9] Wong, J. T. (1975). Une théorie de la coévolution du code génétique. *Proc. Natl. Acad. Sci. USA*, 72(5), 1909–1912.  
-[10] Rowlands, P. (2007). *Zero to Infinity: The Foundations of Physics*. World Scientific. (Chapitre 19, "Natures's Code", coécrit avec V. Hill)  
+[10] Rowlands, P. (2007). *Zero to Infinity: The Foundations of Physics*. World Scientific. (Chapitre 19: "Natures's Code", coécrit avec V. Hill)  
 [11] da Costa, N. C. A. (1974). Sur la théorie des systèmes formels incohérents. *Notre Dame Journal of Formal Logic*.  
 [12] Priest, G. (2008). *Introduction à la logique non classique*. Cambridge University Press.  
 [13] Belnap, N. D. (1977). Une logique à quatre valeurs utile. Dans *Modern Uses of Multiple-Valued Logic*. Reidel.  

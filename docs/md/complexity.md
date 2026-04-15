@@ -6,7 +6,7 @@ date: "April 2026"
 doi: "10.5281/zenodo.19540508"
 abstract_en: |
   The regulation of combinatorial complexity is a central challenge for natural and artificial systems. The genetic code addresses this by mapping 64 codons onto 20 functional classes via organized redundancy that confers robustness and error tolerance.
-  Building on on Peter Rowlands’ work on nilpotent Clifford algebras, we show that the 64-element structure of $\mathrm{Cl}(6,0)$, after symmetry breaking, reduces to 20 stable attractors geometrically organized into level-3 double tetrahedra (Merkabah). Imposing a neighborhood rule based on the sharing of a common triangular face between two tetrahedra filters the 64 configurations into exactly 20 equivalence classes.
+  Building on the mathematical and physical framework of nilpotent Clifford algebras developed primarily by Peter Rowlands, and on the subsequent application of this formalism to the genetic code jointly authored by Rowlands and Vanessa Hill in Chapter 19 of Zero to Infinity, we show that the 64-element structure of $\mathrm{Cl}(6,0)$, after symmetry breaking, reduces to 20 stable attractors geometrically organized into level-3 double tetrahedra (Merkabah). Imposing a neighborhood rule based on the sharing of a common triangular face between two tetrahedra filters the 64 configurations into exactly 20 equivalence classes.
   We formalize this 64→20 invariant by defining a six-dimensional space of binary configurations and a topological grouping criterion. Each class is identified by a triplet of pentads—irreducible of $\mathrm{Cl}(6,0)$ corresponding to the 12 pentagonal faces of the dodecahedron. The pentads are partitioned into six positive ($P$) and six negative ($N$) ones, so that the polarity signature of any class simply counts the number of positive and negative pentads in its triplet ($3P$, $2P+1N$, $1P+2N$, or $3N$). This structural gradient defines the admissible redundancy space that the genetic code exploits in a differentiated manner according to functional and evolutionary constraints.
   The dual graph of the 12 pentads, constructed directly from the Merkabah triplets, exhibits two disjoint 5-cycles (tropical belts $C_P$ and $C_N$) and two polar thresholds ($P_4$, $N_4$). Within each pentad, the five elements realize a five-phase local dynamic (Wuxing) via two complementary cycles: the pentagon (sheng) and the pentagram (ke). Externally, the tropical belts propagate these cycles as modes of global regulation. This structural core, independent of the substrate, provides a mathematically grounded reference architecture for self-limiting and regulated artificial intelligence. 
   **DOI:** [10.5281/zenodo.19540508](https://doi.org/10.5281/zenodo.19540508)
@@ -56,6 +56,8 @@ $$
 which correspond bijectively to the bit pairs $(10, 01, 11, 00)$. The Cartesian product $16 \times 4$ thus generates the complete space of the 64 configurations of $\mathrm{Cl}(6,0)$ from the basis of $\mathrm{Cl}(4,0)$. This modal layer preserves the algebraic signature of each primitive. The state $\sim m$ is explicitly *not* the logical negation of $m$ (which would give $\neg P \cup \neg Q$), but rather the simultaneous complement of both dimensions ensuring structural closure without paraconsistent contradictions [11, 13]. 
 
 This extension is purely algebraic: it preserves the signature of each primitive while adding a modal layer that maps directly onto the 64 codons and the 64 units of $\mathrm{Cl}(6,0)$. The notation $(+,-, m, \sim m)$ is retained for readability, but the underlying logic is strictly Boolean and computable.
+
+(Note: The underlying algebraic framework (Dirac equation, spacetime, mass, charge) was developed by P. Rowlands; the correspondence with the genetic code was formalized jointly with V. Hill in Chapter 19 of *Zero to Infinity*. The present work extracts the 64→20 regulatory invariant from this and generalizes it to discrete non-biological systems.)
 
 ## 2.2. The Level 3 Double Tetrahedron (Merkabah): Subdivision and Tetrahedral Cells
 The underlying geometric structure is the Level 3 double tetrahedron, commonly referred to as the *Merkabah*. Its construction follows a strict hierarchical subdivision:
@@ -295,9 +297,8 @@ Computerizing regulation, rather than computerizing optimization, shifts the cen
 
 # Acknowledgments
 \vspace{-0.5em}
-We thank Peter Rowlands for his seminal work on nilpotent Clifford algebras.  
-We thank Peter Rowlands and Vanessa Hill for their work on the structure of the genetic code.  
-We thank the AI assistants without which this work would have remained at the level of intuition.
+We are deeply grateful to Peter Rowlands for developing the foundational mathematical and physical framework of nilpotent Clifford algebras, and to both Peter Rowlands and Vanessa Hill for their pioneering joint work mapping this structure to the genetic code in Chapter 19 of Zero to Infinity.  
+We thank the AI assistants without which this work would have remained a fantasy.
 
 # References
 
@@ -312,7 +313,7 @@ We thank the AI assistants without which this work would have remained at the le
 [7] Koonin, E. V., & Novozhilov, A. S. (2017). Origin and Evolution of the Genetic Code: The Universal Enigma. *IUBMB Life*, 69(5) , 282–296.  
 [8] Woese, C. R. (1965). Order in the genetic code. *Proc. Natl. Acad. Sci. USA*, 54(1), 71–75.  
 [9] Wong, J. T. (1975). A theory of the coevolution of the genetic code. *Proc. Natl. Acad. Sci. USA*, 72(5), 1909–1912.  
-[10] Rowlands, P. (2007). *Zero to Infinity: The Foundations of Physics*. World Scientific. (Chapter 19, “Nature's Code” , co-authored with V. Hill)  
+[10] Rowlands, P. (2007). *Zero to Infinity: The Foundations of Physics*. World Scientific. (Chapter 19: “Nature's Code”, co-authored with V. Hill)  
 [11] da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*.  
 [12] Priest, G. (2008). *Introduction to Non-Classical Logic*. Cambridge University Press.  
 [13] Belnap, N. D. (1977). A Useful Four-Valued Logic. In *Modern Uses of Multiple-Valued Logic*. Reidel.  
