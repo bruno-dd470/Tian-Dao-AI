@@ -14,3 +14,8 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+drafts/
+**/Trash/
+**/script_old/
+code/INTERNAL
