@@ -100,8 +100,9 @@ Added to [`references/Viguier/`](./references/Viguier/):
 | Document | Description |
 |----------|-------------|
 | [`Ravenne_Leçon_de_droit_n°6_2021.pdf`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021.pdf) | Original French text — Legal and philosophical foundations for AI regulation |
-| [`Ravenne_Leçon_de_droit_n°6_2021.doc`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021.doc) | French source document (Word format) |
-| [`Ravenne_Leçon_de_droit_n°6_2021_english.doc`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021_english.doc) | Unproofed Machine English translation |
+| [`Ravenne_Leçon_de_droit_n°6_2021_eng.pdf`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021_eng.pdf) | Original French text — Legal and philosophical foundations for AI regulation |
+| [`Ravenne_Leçon_de_droit_n°6_2021.docx`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021.docx) | French source document (Word format) |
+| [`Ravenne_Leçon_de_droit_n°6_2021_eng.docx`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021_eng.docx) | Unproofed Machine English translation (Word format) |
 
 ---
 
