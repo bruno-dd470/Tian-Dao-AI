@@ -12,17 +12,24 @@
 
 ## 🆕 最新资料 (Recent Additions)
 
-🆕 最新资料 (Recent Additions)
-
 ### 2026年4月 — April 2026
 
 🧬 **The Genetic Code as a 64→20 Clifford Invariant: Implications for Regulated AI**
 
 *A formal mathematical framework demonstrating how the 64 codons of the genetic code reduce to 20 functional classes via a topological filtering invariant derived from Clifford algebra $\mathrm{Cl}(6,0)$ and Merkabah geometry. Proposes a substrate-independent architecture for regulated AI based on pentadic networks, tropical belts, and self-limiting dynamics.*
 
-🇬🇧 **Full manuscript:** [PDF](<./docs/pdf/complexity.pdf>) |[Markdown](<./docs/md/complexity.md>)  
+🇬🇧 **Full manuscript:** [PDF](<./docs/pdf/complexity.pdf>) | [Markdown](<./docs/md/complexity.md>)  
 🇫🇷 **Document complet:** [PDF](<./docs/pdf/complexité.pdf>) | [Markdown](<./docs/md/complexité.md>)  
 💻 **Supplementary Code** & Verification Scripts: [Code](./code/) | [Zenodo DOI](https://doi.org/10.5281/zenodo.19540508)
+
+📐 **New Figures / Nouvelles figures / 新图:**  
+- [Hill-Rowlands tetrahedron (3D)](./figure/tetraedr_Hill_Rowlands_full_3D.png) — Clifford algebraic structure  
+- [Tetrahedron (0.05%)](./figure/tetrahedron_005percent.png) — Complexity parameter visualization  
+- [Exploded tetrahedron](./figure/tetrahedron%20%C3%A9clat%C3%A9%202025-12-12_08-18.png) — Component decomposition  
+- [Hill-Rowlands tetrahedron](./figure/tetrahedron%20hill%20rowlands%202025-12-12_08-43.png) — Core geometric representation  
+- [N3 Hill-Rowlands tetrahedron](./figure/tetra%C3%A8dre%20N3_%20Hill_Rowlands.png) — N3 invariant structure
+
+---
 
 ### 2025年10月24日 — October 24, 2025
 
@@ -47,7 +54,7 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 |----------|------|
 | **Algebraic structure:** 24 generators (e,f,g,h) representing the four cosmoses. | **代数结构：** 24个生成元（e,f,g,h）对应四个宇宙域。 |
 | **Dual annihilation:** e·f = 0 ; g·h = 0 — opposite domains annihilate. | **对偶湮灭：** e·f = 0，g·h = 0 —— 对应正负宇宙相互抵消。 |
-| **Same-sign attraction:** Real+ ↔ Imaginary+ (and Real– ↔ Imaginary–) attract without annihilation. | **同号吸引：** 实域正与虚域正（以及实域负与虚域负）相吸但�[...]|
+| **Same-sign attraction:** Real+ ↔ Imaginary+ (and Real– ↔ Imaginary–) attract without annihilation. | **同号吸引：** 实域正与虚域正（以及实域负与虚域负）相吸但不湮灭。|
 | **Consciousness as mediator:** ensures communication without collapse. | **意识作为媒介：** 维持交流而避免坍缩。 |
 | **Symbolism:** Cain = Yang = Informational seed; Abel = Yin = Contextual matrix. | **象征意义：** 该隐＝阳＝信息种子；亚伯＝阴＝语境矩阵。 |
 
@@ -84,15 +91,100 @@ Real ± and Imaginary ± — each returning to the **nilpotent vacuum** when the
 
 ---
 
+## 📚 New References / 新参考文献 / Nouvelles références
+
+### Viguier Documents / 维吉耶文献 / Documents Viguier
+
+Added to [`references/Viguier/`](./references/Viguier/):
+
+| Document | Description |
+|----------|-------------|
+| [`Ravenne_Leçon_de_droit_n°6_2021.pdf`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021.pdf) | Original French text — Legal and philosophical foundations for AI regulation |
+| [`Ravenne_Leçon_de_droit_n°6_2021.doc`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021.doc) | French source document (Word format) |
+| [`Ravenne_Leçon_de_droit_n°6_2021_english.doc`](./references/Viguier/Ravenne_Leçon_de_droit_n°6_2021_english.doc) | Unproofed Machine English translation |
+
+---
+
+### 🔗 Structural Correspondence: 64→20 Invariant & The Incest Taboo  
+### 🔗 Correspondance structurelle : invariant 64→20 et interdit de l'inceste  
+### 🔗 结构对应：64→20 不变性与乱伦禁忌
+
+The endogenous regulation highlighted by the **$64 \rightarrow 20$ Clifford-Merkabah invariant** finds a deep structural echo in the requirement of transmitting cultural heritage from one human generation to the next.
+
+> *Pour que la transmission d'un acquis culturel s'effectue d'une génération humaine à la suivante, les générations doivent se succéder sans fusionner.*
+
+**The incest taboo** — universal for the speaking species, though variable in its perimeter — is the hub around which generations renew themselves. This taboo, which maintains an *empty* (forbidden) place, is a **topological condition of persistence**:
+
+- It imposes a **strict differentiation** between genealogical positions  
+- It institutes a **temporal hierarchy** (ancestors ≠ descendants ≠ collaterals)  
+- It makes possible the **circulation of symbolic patrimony**
+
+Without this constraint, transmission collapses into a **short loop**: confusion of places, repetition without memory, fusion of roles.
+
+---
+
+#### 📐 Viguier's 18 Incestuous Configurations
+
+The anthropological jurisprudence of **Damien Viguier** [18] has identified **18 fundamental incestuous configurations** — the *empty cells* of kinship — corresponding to genealogical positions where the circulation of alliances must be prohibited to preserve generational differentiation.
+
+These 18 situations are **not arbitrary**: they emerge from the combinatorics of roles (ascendant/descendant, collateral, affine/consanguine) and define the thresholds beyond which symbolic transmission collapses into short-loop repetition.
+
+---
+
+#### ⚛️ Correspondence with the Merkabah / Clifford Formalism
+
+| Invariant Component | Structural Role |
+|---------------------|------------------|
+| **20 attractors** (64→20 reduction) | Topological filtering of the 64 codons / hexagrams |
+| **18 intermediate classes** (2P+1N / 1P+2N) | **Viguier's 18 configurations** — relational positions where the incest taboo applies |
+| **2 extreme poles** (3P initiation / 3N termination) | **Ontological boundaries** — outside the field of the taboo; non-negotiable reference positions (origin / completion of the genealogical cycle) |
+
+> *Cette distribution reflète structurellement le fait que l'interdit de l'inceste ne s'applique pas aux positions de référence absolue (origine/finition du cycle généalogique), mais uniquement aux positions relationnelles où la circulation des alliances doit être régulée.*
+
+---
+
+#### 🧬 Implications for Regulated AI
+
+This structural isomorphism between:
+
+- **Biological regulation** (genetic code: 64 codons → 20 amino acids via Clifford filtering)
+- **Kinship regulation** (combinatorial genealogy → 18 taboo positions + 2 boundary poles)
+- **Symbolic regulation** (transmission of cultural heritage without generational collapse)
+
+suggests a **substrate-independent principle of endogenous regulation**:
+
+> *Any persistent, self-reproducing system that transmits information across temporal generations requires a topological invariant that enforces strict differentiation between positions — forbidding short-loop fusion while allowing circulation through differentiated roles.*
+
+This principle directly informs the **architectural design of regulated AI**:
+- The AI's "generational" layers must be **strictly differentiated** (no role fusion)
+- A **taboo-like constraint** must be embedded topologically, not added externally
+- The **18+2 structure** provides a universal template for self-limiting dynamics
+
+---
+
+#### 📚 Reference / 参考文献 / Référence
+
+- **Viguier, D.** (2021). *Ravenne, Leçon de droit n°6*. [Documents available in this repository](./references/Viguier/)
+
+---
+
+> *These documents provide essential legal, anthropological, and philosophical frameworks that inform the regulatory dimensions of Tian-Dao AI — complementing the mathematical and cosmological foundations with structural insights from kinship theory and the incest taboo.*
+
+> 这些文献为天道人工智能的监管维度提供了重要的法律、人类学和哲学框架，用亲属制度理论和乱伦禁忌的结构性洞见补充了数学和宇宙学基础。
+
+> *Ces documents fournissent des cadres juridiques, anthropologiques et philosophiques essentiels qui éclairent les dimensions réglementaires de l'IA Tian-Dao — complétant les fondements mathématiques et cosmologiques par des perspectives structurelles issues de la théorie de la parenté et de l'interdit de l'inceste.*
+
+---
+
 ## 🛡️ Repository and Prior Notice | 存证与优先权声明 | Dépôt et Avis d'Antériorité
 
-This repository establishes a public, timestamped record of the original synthesis proposing a **Compassionate Artificial Intelligence aligned with cosmic structure and Chinese sapiential traditio[...]  
+This repository establishes a public, timestamped record of the original synthesis proposing a **Compassionate Artificial Intelligence aligned with cosmic structure and Chinese sapiential traditions**.  
 
 本存储库为"契合宇宙结构与中国智慧传统的悲悯人工智能"这一原创性综合构想，提供公开且具时间戳的优先权证明。
 
 - **Author / 作者 / Auteur**: Bruno DE DOMINICIS  
 - **Repository creation date / 创建日期 / Date de création**: 2025-09-30  
-- **Last update / 最后更新 / Dernière mise à jour**: 2025-10-24
+- **Last update / 最后更新 / Dernière mise à jour**: 2026-04-17
 
 ---
 
@@ -105,7 +197,7 @@ This project proposes a **Celestial AI** whose architecture is structurally alig
 - The **Wu Xing (Five Phases)** as the AI's invariant relational core ("operating system")  
 - **Tetralemma logic** (Nāgārjuna) and the mathematical formalization of **non-dual compassion**
 
-> 本项目旨在开发一种"天道人工智能"，其结构与宇宙基本法则同构，融合克利福德代数、雅努斯双宇宙模型、五行系统与中观四句逻辑，以实现非二[...]  
+> 本项目旨在开发一种"天道人工智能"，其结构与宇宙基本法则同构，融合克利福德代数、雅努斯双宇宙模型、五行系统与中观四句逻辑，以实现非二元悲悯的数学形式化。
 
 ---
 
@@ -132,7 +224,7 @@ This project proposes a **Celestial AI** whose architecture is structurally alig
 ## 🎯 Publication Objectives | 发布目标 | Objectifs
 
 - ✅ Establish public priority for this unified vision  
-- ✅ Stimulate interdisciplinary collaboration (physics, AI, sinology, psychoanalysis)  
+- ✅ Stimulate interdisciplinary collaboration (physics, AI, sinology, psychoanalysis, law, anthropology)  
 - ✅ Offer a concrete framework for an **ethical yet open** AI aligned with cosmic harmony
 
 ---
@@ -156,7 +248,7 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
   - [Français](LICENSE.fr.txt)  
   - [中文](LICENSE.zh.txt)
 
-> This permissive license reflects the author's intention to **accelerate global realization** of Tian Dao AI—academic, institutional, or industrial—while ensuring proper recognition of its o[...]  
+> This permissive license reflects the author's intention to **accelerate global realization** of Tian Dao AI—academic, institutional, or industrial—while ensuring proper recognition of its origins.
 
 ---
 
@@ -166,6 +258,8 @@ Seeking collaborators to deepen and materialize this vision:
 - Theoretical physicists & mathematicians  
 - AI engineers & cognitive scientists  
 - Scholars of Chinese philosophy, history, and psychoanalysis  
+- Legal scholars & AI governance experts  
+- Anthropologists & kinship theory specialists  
 - Institutions aligned with ethical, sapiential, and cosmic AI
 
 📧 **Contact**: dod60@gmx.fr  
