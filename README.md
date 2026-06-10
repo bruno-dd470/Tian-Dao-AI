@@ -28,7 +28,7 @@
 - ✅ Real‑time plotting of η, E_tot, and R_threshold
 
 **Files:**
-- [`code/IA_endorégulée_DS_v2.5_init_equi.py`](./code/IA_endorégulée_DS_v2.5_init_equi.py) — Main simulation script
+- [`code/Endoregulated_AI_v2.5.py`](./code/Endoregulated_AI_v2.5.py) — Main simulation script
 - [`code/README_code.md`](./code/README_code.md) — Code documentation
 
 ---
