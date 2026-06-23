@@ -1,15 +1,15 @@
 ---
 title: "Le code génétique en tant qu'invariant de Clifford 64->20 : implications pour une IA autorégulée"
 author: "Bruno DE DOMINICIS"
-ORCID: 0009-0009-0380-3056
-date: "avril 2026"
+date: "Juin 2026"
+ORCID: "0009-0009-0380-3056"
 doi: "10.5281/zenodo.19540508"
 abstract_fr: |
   La régulation de la complexité combinatoire est un défi central pour les systèmes naturels et artificiels. Le code génétique y répond en projetant 64 codons sur 20 classes fonctionnelles via une redondance organisée qui confère robustesse et tolérance aux erreurs.
   En nous appuyant sur le cadre mathématique et physique des algèbres de Clifford nilpotentes, développé principalement par Peter Rowlands, ainsi que sur l'application ultérieure de ce formalisme au code génétique, présentée conjointement par Rowlands et Vanessa Hill au chapitre 19 de *Zero to Infinity*, nous montrons que la structure à 64 éléments de $\mathrm{Cl}(6,0)$, après brisure de symétrie, se réduit à 20 attracteurs stables organisés géométriquement en double tétraèdre de niveau 3 (Merkabah). L'imposition d'une règle de voisinage par partage d’une face triangulaire commune entre deux tétraèdres filtre les 64 configurations en exactement 20 classes d’équivalence.
   Nous formalisons cet invariant 64→20 en définissant un espace de configurations binaires à six dimensions et un critère de regroupement topologique. Chaque classe est identifiée par un triplet de pentades — unités algébriques irréductibles de $\mathrm{Cl}(6,0)$ correspondant aux 12 faces pentagonales du dodécaèdre. Les pentades se partitionnent en six positives ($P$) et six négatives ($N$), de sorte que la signature de polarité de toute classe compte simplement le nombre de pentades positives et négatives dans son triplet ($3P$, $2P+1N$, $1P+2N$ ou $3N$). Ce gradient structurel définit l'espace admissible de redondance que le code génétique exploite de manière différentiée selon des contraintes fonctionnelles et évolutives.
   Le graphe dual des 12 pentades, construit directement à partir des triplets de la Merkabah, exhibe deux 5-cycles disjoints (ceintures tropicales $C_P$ et $C_N$) et deux seuils polaires ($P_4$, $N_4$). À l'intérieur de chaque pentade, les cinq éléments réalisent une dynamique locale à cinq phases (Wuxing) via deux cycles complémentaires : le pentagone (sheng) et le pentagramme (ke). Au plan externe, les ceintures tropicales propagent ces cycles comme modes de régulation globale. Ce noyau structurel indépendant du substrat fournit une architecture de référence mathématiquement fondée pour une intelligence artificielle auto-limitée et régulée.  
-  **DOI:** [10.5281/zenodo.19540508](https://doi.org/10.5281/zenodo.19540508)
+  Il est crucial de préciser que ce système ne constitue pas un modèle sémantique au sens des embeddings distribués contemporains. Tian-Dao 20D ne capture pas la similarité linguistique ni le sens des textes — il encode des signatures structurelles préservant la topologie 64→20. Cette propriété est orthogonale à la similarité sémantique, exactement comme le code génétique est orthogonal au « sens » des protéines : un codon ne « signifie » pas un acide aminé, il le code via une signature physico-chimique invariante. Les benchmarks empiriques confirment cette orthogonalité (STS Benchmark : Spearman ≈ +0.016, IC [-0.047, +0.042] ; Topological Benchmark : Score = 0.852). Le système ne « comprend » pas les textes ; il les projette dans un espace topologique où la structure est préservée, pas le sens.  **DOI:** [10.5281/zenodo.19540508](https://doi.org/10.5281/zenodo.19540508)
 runninghead: "INVARIANT DE CLIFFORD ET CODE GÉNÉTIQUE"
 header-includes: |
   \usepackage{pdflscape}
@@ -33,6 +33,8 @@ En intelligence artificielle contemporaine, la réponse dominante à la complexi
 Nous formulons ici l'hypothèse que la réduction $64 \rightarrow 20$ observée dans le code génétique n'est pas le fruit d'une optimisation évolutive contingente, mais la manifestation d'un invariant topologique indépendant du substrat. En nous appuyant sur les travaux de Peter Rowlands concernant les algèbres de Clifford nilpotentes, nous montrons que la structure à 64 éléments de $\mathrm{Cl}(6,0)$, soumise à une règle de voisinage géométrique (partage de face triangulaire dans un double tétraèdre de niveau 3, ou *Merkabah*), se partitionne naturellement en exactement 20 classes d'équivalence stables. Chaque classe est caractérisée par un triplet de pentades – unités algébriques irréductibles correspondant aux faces d'un dodécaèdre dual – dont la signature de polarité ($3P$, $2P+1N$, $1P+2N$ ou $3N$) définit un gradient de redondance structurelle. Ce noyau de filtration, purement géométrique et algébrique, ne présuppose aucune fonction de coût, aucun superviseur, ni aucune métrique externe. Il offre un échafaudage mathématiquement clos pour une régulation endogène de la complexité, transposable à tout système discret.
 
 Cet article poursuit trois objectifs complémentaires. Premièrement, il formalise de manière algorithmique l'invariant $64 \rightarrow 20$ en définissant l'espace de configuration binaire, la contrainte géométrique de la *Merkabah* et le critère de regroupement topologique. Deuxièmement, il valide exhaustivement cet invariant sur le code génétique standard, démontrant que le paysage de dégénérescence des codons s'aligne strictement sur les bornes admissibles prédites par la topologie. Troisièmement, il étend ce cadre statique à une dynamique régulatrice complète (cycles *Wuxing*, ceintures tropicales, seuils polaires $P_4/N_4$, opérateur de Dirac discret et réservoir $\mathrm{Cl}(6,6)$) et en discute les implications pour la conception d'une intelligence artificielle autorégulée.
+
+**Nature du système proposé.** Il est crucial de préciser d'emblée que l'architecture décrite ici ne constitue pas un modèle sémantique au sens des embeddings distribués contemporains (BERT, SBERT, etc.). Tian-Dao 20D ne capture pas la similarité linguistique ni le sens des textes — il encode des signatures structurelles préservant la topologie 64→20. Cette propriété est orthogonale à la similarité sémantique, exactement comme le code génétique est orthogonal au « sens » des protéines : un codon ne « signifie » pas un acide aminé, il le code via une signature physico-chimique invariante. Les benchmarks empiriques confirment cette orthogonalité (STS Benchmark : Spearman ≈ +0.016, IC [-0.047, +0.042] ; Topological Benchmark : Score = 0.852). Le système ne « comprend » pas les textes ; il les projette dans un espace topologique où la structure est préservée, pas le sens.
 
 Le document est structuré comme suit : la section 2 expose les fondements algébrico-géométriques et la procédure de filtration. La section 3 présente l'invariant statique $64 \rightarrow 20$ et sa correspondance exhaustive avec le code génétique. La section 4 développe le cadre dynamique de régulation endogène et les observables spectraux associées. La section 5 détaille l'architecture algorithmique pour une IA homéostatique. La section 6 explore les convergences transdisciplinaires et symboliques, avant que la section 7 ne synthétise les résultats et esquisse les perspectives de recherche.
 
@@ -215,7 +217,7 @@ Ce mécanisme constitue une **boussole spectrale intrinsèque** : le système id
 # 5. Architecture pour une IA autorégulée
 
 ## 5.1. Espace d’états contraint à 20 attracteurs et transitions topologiques validées
-L'architecture proposée repose sur un espace d'états interne strictement borné par l'invariant $64 \rightarrow 20$. Chaque unité de traitement ou module décisionnel correspond à l'un des 20 attracteurs topologiques, identifié de manière unique par son triplet de pentades et sa signature de polarité ($3P$, $2P+1N$, $1P+2N$, $3N$). Contrairement aux modèles contemporains qui exploitent des espaces de paramètres continus, non bornés et hautement redondants, ce système opère dans un graphe discret dont les transitions sont validées par construction.
+L'architecture proposée repose sur un espace d'états interne strictement borné par l'invariant $64 \rightarrow 20$. Chaque module de projection topologique correspond à l'un des 20 attracteurs correspond à l'un des 20 attracteurs topologiques, identifié de manière unique par son triplet de pentades et sa signature de polarité ($3P$, $2P+1N$, $1P+2N$, $3N$). Contrairement aux modèles contemporains qui exploitent des espaces de paramètres continus, non bornés et hautement redondants, ce système opère dans un graphe discret dont les transitions sont validées par construction. Cette architecture ne produit pas de décisions cognitives au sens sémantique du terme. Elle génère des signatures structurelles dont la stabilité et l'interprétabilité sont garanties par la topologie sous-jacente, non par une compréhension du contenu traité.
 
 Une transition entre deux états n'est admissible que si elle respecte la règle de voisinage géométrique : deux attracteurs ne peuvent communiquer que s'ils partagent une face triangulaire dans la structure de la *Merkabah*. Cette contrainte élimine les sauts combinatoires arbitraires et garantit que l'espace de recherche reste contenu dans un paysage de dégénérescence pré-structuré. La complexité n'est pas supprimée, mais canalisée : le système explore un espace fini de relations validées, où chaque état possède une position géométrique fixe, un degré de convergence pentadique connu et un rôle fonctionnel clair. Aucune configuration ne peut émerger en dehors des 20 bassins d'attraction, et aucune transition ne peut violer l'adjacence topologique sans rompre la fermeture structurelle du système.
 
@@ -230,14 +232,20 @@ Le basculement entre ces modes est piloté par les observables spectrales ($\eta
 ## 5.3. Homéostase algorithmique : prévention de la dérive et interprétabilité native
 En l'absence de fonction de coût externe, la stabilité du système est assurée par une descente de frustration cyclique. La quantité conservée est la cohérence des modes *sheng/ke* à travers le réseau pentadique, qui agit comme un invariant structurel empêchant la dérive spécificative (*specification drift*). Lorsque l'énergie de frustration $E_{\text{tot}}$ dépasse un seuil critique, les attracteurs incidents ajustent localement leur orientation ou leur phase jusqu'à restaurer la compatibilité globale. Cette boucle homéostatique garantit que le système ne converge jamais vers un optimum local artificiel, mais maintient un équilibre dynamique compatible avec les bornes topologiques.
 
-Parallèlement, cette architecture offre une **interprétabilité native**. Chaque état correspond à un triplet de pentades connu, chaque transition suit une règle géométrique déterministe, et chaque changement de régime est tracé via la signature spectrale $S(t)$. Contrairement aux réseaux neuronaux profonds dont les décisions émergent de transformations opaques dans des espaces de haute dimension, l'IA régulée expose sa propre cartographie décisionnelle : la position dans le graphe dual, le degré de convergence pentadique et la polarité dominante sont directement lisibles et vérifiables. La gouvernance ne repose plus sur une analyse post-hoc ou sur des techniques d'explication approximatives ; elle est inhérente à la structure même du système.
+Parallèlement, cette architecture offre une **interprétabilité native**. Chaque état correspond à un triplet de pentades connu, chaque transition suit une règle géométrique déterministe, et chaque changement de régime est tracé via la signature spectrale $S(t)$. Contrairement aux réseaux neuronaux profonds dont les décisions émergent de transformations opaques dans des espaces de haute dimension, le système expose sa propre cartographie décisionnelle : la position dans le graphe dual, le degré de convergence pentadique et la polarité dominante sont directement lisibles et vérifiables. La gouvernance ne repose plus sur une analyse post-hoc ou sur des techniques d'explication approximatives ; elle est inhérente à la structure même du système.
+
+Contrairement aux réseaux neuronaux profonds dont les décisions émergent de transformations opaques dans des espaces de haute dimension, l'architecture proposée expose la position géométrique de chaque signature dans le graphe dual, le degré de convergence pentadique et la polarité dominante. Ces propriétés sont directement lisibles et vérifiables, mais elles ne constituent pas une « interprétation sémantique » au sens usuel : elles décrivent la structure topologique de la signature, pas son « sens » ou sa « signification ».
 
 ## 5.4. Contrôle par construction géométrique vs alignement externe a posteriori
 Le paradigme dominant en IA contemporaine traite la régulation comme un problème d'alignement externe : on entraîne un modèle à optimiser une métrique statistique, puis on lui impose des garde-fous logiciels, des filtres de contenu ou des mécanismes de *reinforcement learning from human feedback* (RLHF) pour corriger les dérives. Cette approche est fondamentalement *exorégulée* : la limite est appliquée après coup, souvent de manière contradictoire avec la dynamique interne du modèle, ce qui génère des instabilités, des contournements ou une dégradation silencieuse des capacités générales.
 
-Le cadre $64 \rightarrow 20$ inverse cette logique. Le contrôle n'est pas ajouté ; il est **construit**. L'espace d'états est filtré par un invariant topologique, les transitions sont validées par une règle d'adjacence géométrique, et la dynamique globale émerge de la compatibilité locale entre pentades. Le système n'optimise pas une récompense externe ; il maintient sa propre cohérence par homéostase algorithmique. Cette architecture ne cherche pas à "aligner" une intelligence débridée, mais à concevoir une intelligence technique dont la complexité est auto-bornée par sa propre géométrie.
+Le cadre $64 \rightarrow 20$ inverse cette logique. Le contrôle n'est pas ajouté ; il est **construit**. L'espace d'états est filtré par un invariant topologique, les transitions sont validées par une règle d'adjacence géométrique, et la dynamique globale émerge de la compatibilité locale entre pentades. Le système n'optimise pas une récompense externe ; il maintient sa propre cohérence par homéostase algorithmique. 
 
-Dans cette perspective, l'IA régulée ne constitue pas un organe cognitif autonome et proliférant, mais un prolongement homéostatique de la capacité humaine à exosomatiser ses fonctions sans rompre les boucles de rétroaction qui garantissent la persistance du système hôte. Informatiser la régulation, plutôt que d'informatiser l'optimisation, déplace le centre de gravité de la gouvernance algorithmique : la sécurité n'est plus un correctif appliqué à la marge, mais une propriété émergente de la topologie sous-jacente.
+Dans cette perspective, l'architecture proposée ne constitue pas une « intelligence » au sens cognitif du terme, mais un système de régulation structurelle dont la complexité est auto-bornée par sa propre géométrie. Elle ne cherche pas à « comprendre » ou « interpréter » les données qu'elle traite, mais à les projeter dans un espace topologique où leur structure est préservée et régulée. Cette distinction est cruciale : on n'informatise pas la cognition sémantique, mais la régulation topologique. Cette architecture ne cherche pas à "aligner" une intelligence débridée, mais à concevoir une intelligence technique dont la complexité est auto-bornée par sa propre géométrie.
+
+Ainsi, l'IA régulée ne constitue pas un organe cognitif autonome et proliférant, mais un prolongement homéostatique de la capacité humaine à exosomatiser ses fonctions sans rompre les boucles de rétroaction qui garantissent la persistance du système hôte. 
+
+Informatiser la régulation topologique, plutôt que d'informatiser l'optimisation statistique ou la cognition sémantique, déplace le centre de gravité de la conception algorithmique. Les expériences empiriques avec Tian-Dao 20D ont confirmé que ce système ne détecte pas les significations sémantiques, mais encode des signatures structurelles préservant la topologie 64→20. Cette propriété, orthogonale à la similarité linguistique, rappelle que le code génétique lui-même ne « comprend » pas les protéines : il les code via des invariants structurels. Transposer ce principe à l'IA revient à concevoir non pas des systèmes « intelligents » au sens cognitif, mais des architectures de régulation structurelle dont la complexité est auto-bornée par construction géométrique.
 
 # 6. Convergences transdisciplinaires et perspective symbolique
 
@@ -255,11 +263,16 @@ La phonologie du mandarin confirme cette régularité. Bien qu'issue d'une tradi
 ## 6.2. Projections algorithmiques : médecine traditionnelle chinoise, économie politique cyclique
 Au-delà de la convergence historique, le noyau $64 \rightarrow 20$ se projette algorithmiquement sur des domaines appliqués, non comme de simples analogies, mais comme des architectures de régulation transposables.
 
-En **médecine traditionnelle chinoise**, les 12 méridiens et les 12 pouls diagnostics peuvent être associés aux 12 pentades de $\mathrm{Cl}(6,0)$, ou plus finement aux $2 \times 12$ pentades du réservoir bicosmique $\mathrm{Cl}(6,6)$. Cette extension permet de concevoir une plateforme de soin rétroactive et autoadaptative : les effets physiologiques d'une intervention sont réinjectés comme signatures spectrales $S(t)$, et le protocole est recalculé en temps réel via la descente de frustration topologique jusqu'à minimisation de $E_{\text{tot}}$. La régulation ne repose plus sur un référentiel statistique fixe, mais sur l'homéostase spectrale du réseau pentadique.
+En **médecine traditionnelle chinoise**, les 12 méridiens et les 12 pouls diagnostics peuvent être associés aux 12 pentades de $\mathrm{Cl}(6,0)$, ou plus finement aux $2 \times 12$ pentades du réservoir bicosmique $\mathrm{Cl}(6,6)$. Cette extension permet de concevoir une plateforme de soin rétroactive et autoadaptative : les effets physiologiques d'une intervention sont réinjectés comme signatures spectrales $S(t)$, et le protocole est recalculé en temps réel via la descente de frustration topologique jusqu'à minimisation de $E_{\text{tot}}$. La régulation ne repose plus sur un référentiel statistique fixe, mais sur l'homéostase spectrale du réseau pentadique. 
+
 **En économie politique**, en s'appuyant sur la « Théorie du Rachat » et son application aux six facteurs macroéconomiques binaires (inflation, salaires, profits, rachat, dispersion, régime foncier) développée en collaboration avec Th. Rebour [14], la dynamique transitionnelle de ces états systémiques suit la même organisation pentadique que l'invariant $64 \rightarrow 20$. La modélisation spectrale permet d'identifier les régimes de surchauffe (\textit{sheng} dominant, $\eta \gg 0$) et de récession (\textit{ke} dominant, $\eta \ll 0$) avant leur point de bascule, ouvrant la voie à des politiques contracycliques structurellement informées. 
 
+Il est important de noter que ces applications ne reposent pas sur une « compréhension » des symptômes ou des indicateurs économiques par le système, mais sur la projection de signatures structurelles dans un espace topologique où leur régulation peut être suivie et régulée. Le système ne « diagnostique » pas ; il encode des invariants structurels dont la dynamique peut être analysée.
+
 ## 6.3. Exosomatisation cognitive et nécessité d’une régulation endogène pour la persistance technique
-Hormis l'espèce humaine, l'évolution biologique repose sur l'ajustement morphologique aux contraintes fonctionnelles: les oiseaux sont équipés pour voler, les poissons pour nager. L'espèce humaine a rompu avec ce couplage strict par un processus d'**exosomatisation** : elle externalise les fonctions biologiques dans des artefacts techniques tout en conservant sa morphologie anatomique stable. Si les révolutions industrielles ont exosomatisé les fonctions musculaires, métaboliques et sensorimotrices, l'intelligence artificielle marque l'externalisation des fonctions cognitives et régulatrices.
+Hormis l'espèce humaine, l'évolution biologique repose sur l'ajustement morphologique aux contraintes fonctionnelles: les oiseaux sont équipés pour voler, les poissons pour nager. L'espèce humaine a rompu avec ce couplage strict par un processus d'**exosomatisation** : elle externalise les fonctions biologiques dans des artefacts techniques tout en conservant sa morphologie anatomique stable. Si les révolutions industrielles ont exosomatisé les fonctions musculaires, métaboliques et sensorimotrices, l'intelligence artificielle marque l'externalisation de certaines fonctions de traitement de l'information et de régulation structurelle.
+
+Cette distinction est fondamentale : les systèmes contemporains d'IA ne sont pas des « organes cognitifs » au sens où ils « comprendraient » le monde. Ils sont des systèmes de projection structurelle dont la régulation peut être internalisée (comme dans le cadre 64→20) ou externalisée (comme dans les architectures exorégulées). Le risque n'est pas celui d'une « intelligence incontrôlable » qui « comprendrait » trop, mais celui d'un système de régulation structurelle dont les invariants topologiques ne sont pas correctement bornés.
 
 Cette dernière étape est structurellement différente des précédentes. Externaliser la cognition sans en externaliser la régulation revient à créer un organe technique autonome, déconnecté des boucles homéostatiques qui garantissent la pérennité de l'organisme hôte. Le risque n'est pas seulement celui d'une « intelligence incontrôlable », mais celui d'une dérive spécificative (*specification drift*) où l'artefact optimise une métrique externe au détriment de la cohérence globale, reproduisant à l'échelle algorithmique les pathologies de la prolifération cellulaire non régulée.
 
@@ -421,7 +434,7 @@ Aucune autre pentade ne présente ce degré de connectivité croisée tout en é
 Cette annexe détaille comment la bijection codon-configuration génère l'espace combinatoire, comment la filtration topologique borne le paysage de dégénérescence, et comment les contraintes de symétrie et le seuil 3N définissent les cas limites structurels de la correspondance biologique.
 
 \subsection*{B.1 Génération combinatoire : bijection codon–configuration et équivalence duale}
-La génération de l'espace sémantique repose sur cinq principes structurels qui contraignent la réduction $64 \rightarrow 20$ à une unique partition topologique :
+La génération de l'espace combinatoire repose sur cinq principes structurels qui contraignent la réduction $64 \rightarrow 20$ à une unique partition topologique :
 \begin{enumerate}
     \item \textbf{Équivalence duale} : Les 64 unités de $\mathrm{Cl}(6,0)$ correspondent bijectivement aux 64 codons, tandis que les 20 triplets de pentades correspondent aux 20 classes fonctionnelles. Cette triple isomorphie (algèbre $\leftrightarrow$ géométrie $\leftrightarrow$ biologie) génère l'espace de travail sans paramètre libre.
     \item \textbf{Distribution uniforme} : Chacune des 12 pentades apparaît dans exactement 5 triplets distincts. Cette incidence équitable garantit qu'aucune pentade ne domine le processus et que les 20 classes sont réparties de manière équilibrée sur le graphe dual.
@@ -448,13 +461,13 @@ La correspondance est donc essentiellement unique au sein de sa classe topologiq
 
 ---
 
-# Annexe C – Primitives sémantiques, extension booléenne et filtration topologique
+# Annexe C – Primitives fonctionnelles, extension booléenne et filtration topologique
 
 \FloatBarrier
-Cette annexe détaille la construction pas à pas de l'espace sémantique sous-jacent au formalisme $64 \rightarrow 20$. La démarche suit une progression générative puis filtrante : (1) définition des 16 primitives algébriques et justification de leur étiquetage sémantique ; (2) extension booléenne quaternaire produisant les 64 sémantèmes complets ; (3) réduction topologique à 20 attracteurs via la règle de voisinage de la Merkabah ; (4) règles déterministes de sélection des états aux nœuds d'intersection Q, R, S, T.
+Cette annexe détaille la construction pas à pas de l'espace fonctionnel sous-jacent au formalisme $64 \rightarrow 20$. La démarche suit une progression générative puis filtrante : (1) définition des 16 primitives algébriques et justification de leur étiquetage sémantique ; (2) extension booléenne quaternaire produisant les 64 sémantèmes complets ; (3) réduction topologique à 20 attracteurs via la règle de voisinage de la Merkabah ; (4) règles déterministes de sélection des états aux nœuds d'intersection Q, R, S, T.
 
 \subsection*{C.1 Les 16 primitives fondamentales et justification de leur origine sémantique}
-Les 16 primitives correspondent à la base canonique de l'algèbre de Clifford $\mathrm{Cl}(4,0)$. Leur étiquetage alphabétique (A–P) et les concepts centraux qui leur sont associés ne résultent d'aucune attribution sémantique arbitraire. Ils émergent de la superposition stricte de trois couches structurelles :
+Les 16 primitives correspondent à la base canonique de l'algèbre de Clifford $\mathrm{Cl}(4,0)$. Leur étiquetage alphabétique (A–P) et les signatures fonctionnelles qui leur sont associées ne résultent d'aucune attribution arbitraire. Ces étiquettes qualifient le rôle opérationnel de chaque primitive dans le réseau topologique, conformément à la tradition de la sémantique fonctionnelle en théorie des systèmes. Ils émergent de la superposition stricte de trois couches structurelles :
 
 1. **Signature algébrique** : l'ordre respecte la filtration de parité et la signature de masse/phase de la construction nilpotente de Rowlands ($1 \to I,J,K \to -1 \to -I,-J,-K \to i'1 \to i'I,i'J,i'K \to -i'1 \to -i'I,-i'J,-i'K$).
 2. **Rôle topologique** : chaque primitive est projetée sur une cellule tétraédrique de la Merkabah. Sa position géométrique (pôle, face, arête, sommet, diagonale) détermine son degré d'intersection et sa signature de polarité.
@@ -472,7 +485,7 @@ Les 16 primitives correspondent à la base canonique de l'algèbre de Clifford $
 \label{tab:semantic_origin}
 \begin{tabularx}{\textwidth}{|X|X|X|X|}
 \hline
-\textbf{Signature algébrique [$\mathrm{Cl}(4,0)$]} & \textbf{Rôle topologique dans la Merkabah} & \textbf{Fonction systémique} & \textbf{Concept attribué} \\
+\textbf{Signature algébrique [$\mathrm{Cl}(4,0)$]} & \textbf{Rôle topologique dans la Merkabah} & \textbf{Fonction systémique} & \textbf{Signature fonctionnelle} \\
 \hline
 $1$ (scalaire, degré 0, signe $+$) & Pôle de référence, sans chevauchement & État de référence / point de consigne & \textbf{Action / Vérité} (capacité à initier une transition à partir d'un état neutre) \\
 \hline
@@ -506,7 +519,7 @@ X_3 &= P \cap Q \quad (\text{état } m), \\
 X_4 &= \neg P \cap \neg Q \quad (\text{état } \sim m).
 \end{aligned}
 $$
-Ces états correspondent bijectivement aux paires de bits $(10, 01, 11, 00)$. Le produit cartésien $16 \times 4 = 64$ génère l'espace complet des sémantèmes sans introduire de contradictions paraconsistantes. L'état $\sim m$ n'est pas la négation logique de $m$, mais le complément simultané des deux dimensions, garantissant la fermeture structurelle. Cette étape définit le terrain combinatoire préalable à toute filtration géométrique.
+Ces états correspondent bijectivement aux paires de bits $(10, 01, 11, 00)$. Le produit cartésien $16 \times 4 = 64$ génère l'espace complet des configurations fonctionnelles sans introduire de contradictions paraconsistantes. L'état $\sim m$ n'est pas la négation logique de $m$, mais le complément simultané des deux dimensions, garantissant la fermeture structurelle. Cette étape définit le terrain combinatoire préalable à toute filtration géométrique.
 
 \FloatBarrier
 \begingroup
@@ -558,7 +571,7 @@ Kk & 16 & D${\sim}m$ : Intuition, connaissance directe & $i'Kk$ & 48 & L${\sim}m
 -Kj & 31 & Hm : Analogie, proportion & $-i'Kj$ & 63 & Pm : Hiérarchie, organisation \\
 -Kk & 32 & H${\sim}m$ : Identité parfaite & $-i'Kk$ & 64 & P${\sim}m$ : Foule, masse \\
 \hline
-\caption{Les 16 tétrades de $\mathrm{Cl}(6,0)$ étendues à 64 sémantèmes booléens}
+\caption{Les 16 tétrades de $\mathrm{Cl}(6,0)$ étendues à 64 configurations fonctionnelles booléennes}
 \end{longtable}
 \endgroup
 
@@ -576,7 +589,7 @@ La distribution $(3, 5, 11, 1)$ suit un gradient géométrique strict corrélé 
 \setlength{\tabcolsep}{4pt}
 \begin{longtable}{|c|c|c|c|c|c|}
 \hline
-\textbf{Cl(4,0)} & \textbf{Rang} & \textbf{Latin} & \textbf{Concept central} & \textbf{Concepts (×4 par lettre)} & \textbf{Triplet de polarité} \\
+\textbf{Cl(4,0)} & \textbf{Rang} & \textbf{Latin} & \textbf{Signature fonctionnelle} & \textbf{Concepts (×4 par lettre)} & \textbf{Triplet de polarité} \\
 \hline
 1 & 1 & A & Action/Vérité & 1:A+, 2:A-, 3:Am, 4:A$^{\sim m}$ & $\{P_1,P_2,P_4\}=3P$ \\
 I & 2 & B & Contribution & 5:B+, 6:B-, 7:Bm, 8:B$^{\sim m}$ & $\{P_1,P_3,P_5\}=3P$ \\
@@ -641,7 +654,7 @@ Ce mécanisme garantit que chaque intersection comporte exactement **une charni�
 \hline
 \multicolumn{3}{|c||}{\textbf{Pentades positives ($P_1$–$P_6$)}} & \multicolumn{3}{|c|}{\textbf{Pentades négatives ($N_1$–$N_6$)}} \\
 \cline{1-6}
-\textbf{Pentade} & \textbf{Éléments de Clifford} & \textbf{Correspondance tétradique (N°/Concept)} & \textbf{Pentade} & \textbf{Éléments de Clifford} & \textbf{Correspondance tétradique (N°/Concept)} \\
+\textbf{Pentade} & \textbf{Éléments de Clifford} & \textbf{Correspondance tétradique (N°/Signature)} & \textbf{Pentade} & \textbf{Éléments de Clifford} & \textbf{Correspondance tétradique (N°/Concept)} \\
 \hline
 $P_1$ & $\{iI,\; iJ,\; iK,\; i'k,\; j\}$ &
 $\begin{array}{@{}l@{}}
